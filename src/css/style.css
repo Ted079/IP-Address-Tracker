@@ -36,14 +36,13 @@
   .search-bar__input {
     width: 100%;
     max-width: 500px;
-    font-size: 1.8rem;
-    font-weight: 700;
+    font-size: 1.6rem;
+    font-weight: 500;
     color: hsl(0, 0%, 17%);
     border: none;
     outline: none;
     padding: 1.5rem 2rem;
     border-radius: 10px 0 0 10px;
-    cursor: pointer;
   }
   .search-bar__btn {
     background-color: black;
@@ -131,7 +130,7 @@
   }
   .info__block-title {
     color: hsl(0, 0%, 17%);
-    font-weight: 700;
+    font-weight: 500;
     font-size: 2rem;
   }
   .map {
